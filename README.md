@@ -1,16 +1,19 @@
-# clicksandstories
 
-A new Flutter project.
+# Clicks & Stories
 
-## Getting Started
+<img src = "/assets/playstore_graphics/logo.png" width = 300>
 
-This project is a starting point for a Flutter application.
+***Literati assemble!***  
+  
+Dive into the world of photo-blogging with two perplexed undergrads who believe there's pride in passion. A picture is worth a thousand words, and that's what we are here for - to articulate the intelligible and envisage the inexplicable.  
+  
+Take a detour across the various subtleties of nature and the exquisite embroidery of humans, right from the comfort of your cozy chesterfield! The revered stanzas and touching depictions are just cheery on top of the cake.  
+  
+In short, we at 'Clicks & Stories' help you visualize the world around you, in high definition!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "/assets/playstore_graphics/Feature Graphic.png">
+<img src = "/assets/playstore_graphics/1.png">
+<img src = "/assets/playstore_graphics/2.png">
+<img src = "/assets/playstore_graphics/5.psd.png">
+<img src = "/assets/playstore_graphics/4.png">
+<img src = "/assets/playstore_graphics/3.png">
