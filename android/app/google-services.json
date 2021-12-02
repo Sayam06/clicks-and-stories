@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595368701121",
+    "project_id": "clicks-and-stories",
+    "storage_bucket": "clicks-and-stories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595368701121:android:b88c9193f7cfef836bb840",
+        "android_client_info": {
+          "package_name": "com.photoblog.clicksandstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595368701121-c2d70bk34fdh6491mrlpk5gvdfe2bhki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyYn6lBQ8P7_NMemcuQfqDR-ABWV1scQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595368701121-c2d70bk34fdh6491mrlpk5gvdfe2bhki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
